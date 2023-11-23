@@ -1,4 +1,4 @@
-						**ROCK PAPER AND SCISSORS**
+ROCK PAPER AND SCISSORS
       
 **Overview**
 
