@@ -1,5 +1,5 @@
-							**ROCK PAPER AND SCISSORS**
-
+						**ROCK PAPER AND SCISSORS**
+      
 **Overview**
 
 This is a simple web application that enables users to engage in the classic game of Rock, Paper, Scissors against the computer. The game leverages JavaScript for the logic, while HTML provides the structure, and CSS handles styling.
